@@ -1,0 +1,25 @@
+{
+  "name": "clean-node-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matheus002/clean-node-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matheus002/clean-node-api/issues"
+  },
+  "homepage": "https://github.com/Matheus002/clean-node-api#readme",
+  "devDependencies": {
+    "@types/node": "^16.4.10",
+    "git-commit-msg-linter": "^3.2.6",
+    "typescript": "^4.3.5"
+  }
+}
